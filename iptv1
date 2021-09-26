@@ -1,0 +1,16 @@
+#EXTM3U
+#EXTINF:-1,GOLF CHANNEL FR
+acestream://3c9cd71b04e1d4136bb0a00f8929983f8470c7c5
+#EXTINF:-1,M GOLF HD
+acestream://b93ec5d6adee1c59192ae9811b0d5df66adc29af
+#EXTINF:-1,ONE GOLF
+acestream://60e1595db53c6af5339b50ad21d957ad9a44a311
+#EXTINF:-1,One golf
+acestream://f2a673cfd2a72b052229aa0a838035b1a57b178a
+#EXTINF:-1,V SPORT GOLF
+acestream://68a2815a1ea9cae62c34d940238028267cfe5b7f
+#EXTINF:-1,ZIGGO SPORT GOLF
+acestream://0077bcf5759d69e7413bd3bcce79d8a5e19bb181
+#EXTINF:-1,LIVE GOLF TEST
+https://cdn.livetv466.me/webplayer2.php?t=alieztv&c=151848&lang=en&eid=1114496&lid=1684135&ci=2131&si=37
+
