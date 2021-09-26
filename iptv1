@@ -13,4 +13,7 @@ acestream://68a2815a1ea9cae62c34d940238028267cfe5b7f
 acestream://0077bcf5759d69e7413bd3bcce79d8a5e19bb181
 #EXTINF:-1,LIVE GOLF TEST
 https://cdn.livetv466.me/webplayer2.php?t=alieztv&c=151848&lang=en&eid=1114496&lid=1684135&ci=2131&si=37
-
+#EXTINF:-1,LIVE GOLF TEST 2
+http://cdn.livetv466.me/webplayer2.php?t=ifr&c=1684055&lang=en&eid=1114496&lid=1684055&ci=2131&si=37
+#EXTINF:-1,LIVE GOLF TEST 3
+http://cdn.livetv466.me/webplayer2.php?t=ifr&c=1685084&lang=en&eid=1114496&lid=1685084&ci=2131&si=37
