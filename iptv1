@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1,GOLF CHANNEL FR
-acestream://3c9cd71b04e1d4136bb0a00f8929983f8470c7c5
-#EXTINF:-1,GOLF CHANNEL CZ
-acestream://8f5ce2d236e056d51a5f63a3199fb705a752ac9c
-#EXTINF:-1,GOLF CHANNEL PL
-acestream://8f5ce2d236e056d51a5f63a3199fb705a752ac9c
 #EXTINF:-1,M GOLF HD
 acestream://b93ec5d6adee1c59192ae9811b0d5df66adc29af
 #EXTINF:-1,ONE GOLF
@@ -13,10 +7,18 @@ acestream://60e1595db53c6af5339b50ad21d957ad9a44a311
 acestream://f2a673cfd2a72b052229aa0a838035b1a57b178a
 #EXTINF:-1,V SPORT GOLF
 acestream://68a2815a1ea9cae62c34d940238028267cfe5b7f
+
+#EXTINF:-1,Golf Channel FR
+acestream://3c9cd71b04e1d4136bb0a00f8929983f8470c7c5
+#EXTINF:-1,Golf Channel CZ
+acestream://8f5ce2d236e056d51a5f63a3199fb705a752ac9c
+#EXTINF:-1,Golf Channel PL
+acestream://74673d8fb533cd8e7260ac555bc3ace1e1c40bd1
+
 #EXTINF:-1,ZIGGO SPORT GOLF
 acestream://0077bcf5759d69e7413bd3bcce79d8a5e19bb181
 
-#EXTINF:-1,Sport streamings GOLF
+#EXTINF:-1,Sport streamings 
 acestream://e09a642d1b3d7ff62fe6838b84b007f5f2f90475
 
 #EXTINF:-1,FASHION TV HD
@@ -26,5 +28,3 @@ acestream://b904c4ae829c70d803383c22a3268f879d4e6db3
 https://cdn.livetv466.me/webplayer2.php?t=alieztv&c=151848&lang=en&eid=1114496&lid=1684135&ci=2131&si=37
 #EXTINF:-1,LIVE GOLF TEST 2
 http://cdn.livetv466.me/webplayer2.php?t=ifr&c=1684055&lang=en&eid=1114496&lid=1684055&ci=2131&si=37
-#EXTINF:-1,LIVE GOLF TEST 3
-http://cdn.livetv466.me/webplayer2.php?t=ifr&c=1685084&lang=en&eid=1114496&lid=1685084&ci=2131&si=37
