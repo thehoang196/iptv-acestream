@@ -5,6 +5,8 @@ acestream://e09a642d1b3d7ff62fe6838b84b007f5f2f90475
 acestream://485546bddda35f4d0ab5aba150978f600614c1a6
 #EXTINF:-1 group-title="LIVE",livetv466.me 
 acestream://8ddadcaa1d83f2cf3ffabb6b6a2156d0afec3da1
+#EXTINF:-1 group-title="LIVE",LIVE GOLF TEST
+https://sportstreamings.com/golf.aspx
 
 #EXTINF:-1 group-title="Golf Eng",ONE GOLF
 acestream://60e1595db53c6af5339b50ad21d957ad9a44a311
@@ -24,7 +26,6 @@ acestream://8f5ce2d236e056d51a5f63a3199fb705a752ac9c
 #EXTINF:-1 group-title="Golf Oth lang",Golf Channel PL
 acestream://74673d8fb533cd8e7260ac555bc3ace1e1c40bd1
 
-
 #EXTINF:-1 group-title="Sports",Eurosport 1 HD
 acestream://a020f56162ff397b9c28a547ddbfdb283b458c0a
 #EXTINF:-1 group-title="Sports",Infosport+
@@ -34,14 +35,14 @@ acestream://46c49e9e01749e13c7fd87300924bfa5dad66d11
 
 #EXTINF:-1 group-title="Other",FASHION TV HD
 acestream://b904c4ae829c70d803383c22a3268f879d4e6db3
-#EXTINF:-1 group-title="Other",Bikini
-acestream://fef4d8bdcc3d91e47187c9961adbffbec8a9a581
-#EXTINF:-1 group-title="Other",Ero
+#EXTINF:-1 group-title="Ero",23
+acestream://67b6e07cd8ca0dabae8701937fb9e3ac7cdf2fd3
+#EXTINF:-1 group-title="Ero",Ero X
+acestream://1845ceb311081480d41ec336a882cefa8c0bd07f
+#EXTINF:-1 group-title="Ero",Ero XXX
 acestream://d2ecd1d6c15952c29ccf30d480f0321b180f2586
-#EXTINF:-1 group-title="Other",G TV
+#EXTINF:-1 group-title="Ero",Bikini
+acestream://fef4d8bdcc3d91e47187c9961adbffbec8a9a581
+#EXTINF:-1 group-title="Ero",G TV
 acestream://105ae29baae91753c174b70b35c8aa4c56cb7cf9
 
-#EXTINF:-1,LIVE GOLF TEST
-https://cdn.livetv466.me/webplayer2.php?t=alieztv&c=151848&lang=en&eid=1114496&lid=1684135&ci=2131&si=37
-#EXTINF:-1,LIVE GOLF TEST 2
-http://cdn.livetv466.me/webplayer2.php?t=ifr&c=1684055&lang=en&eid=1114496&lid=1684055&ci=2131&si=37
