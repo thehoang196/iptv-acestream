@@ -1,6 +1,11 @@
 #EXTM3U
-#EXTINF:-1 group-title="Golf Eng",M GOLF HD
-acestream://b93ec5d6adee1c59192ae9811b0d5df66adc29af
+#EXTINF:-1 group-title="LIVE",Sport streamings 
+acestream://e09a642d1b3d7ff62fe6838b84b007f5f2f90475
+#EXTINF:-1 group-title="LIVE",Livetv.sx 
+acestream://485546bddda35f4d0ab5aba150978f600614c1a6
+#EXTINF:-1 group-title="LIVE",livetv466.me 
+acestream://8ddadcaa1d83f2cf3ffabb6b6a2156d0afec3da1
+
 #EXTINF:-1 group-title="Golf Eng",ONE GOLF
 acestream://60e1595db53c6af5339b50ad21d957ad9a44a311
 #EXTINF:-1 group-title="Golf Eng",One golf
@@ -8,6 +13,8 @@ acestream://f2a673cfd2a72b052229aa0a838035b1a57b178a
 #EXTINF:-1 group-title="Golf Eng",V SPORT GOLF
 acestream://68a2815a1ea9cae62c34d940238028267cfe5b7f
 
+#EXTINF:-1 group-title="Golf Oth lang",M GOLF HD
+acestream://b93ec5d6adee1c59192ae9811b0d5df66adc29af
 #EXTINF:-1 group-title="Golf Oth lang",ZIGGO SPORT GOLF
 acestream://0077bcf5759d69e7413bd3bcce79d8a5e19bb181
 #EXTINF:-1 group-title="Golf Oth lang",Golf Channel FR
@@ -17,12 +24,6 @@ acestream://8f5ce2d236e056d51a5f63a3199fb705a752ac9c
 #EXTINF:-1 group-title="Golf Oth lang",Golf Channel PL
 acestream://74673d8fb533cd8e7260ac555bc3ace1e1c40bd1
 
-#EXTINF:-1 group-title="LIVE",Sport streamings 
-acestream://e09a642d1b3d7ff62fe6838b84b007f5f2f90475
-#EXTINF:-1 group-title="LIVE",Livetv.sx 
-acestream://485546bddda35f4d0ab5aba150978f600614c1a6
-#EXTINF:-1 group-title="LIVE",livetv466.me 
-acestream://8ddadcaa1d83f2cf3ffabb6b6a2156d0afec3da1
 
 #EXTINF:-1 group-title="Sports",Eurosport 1 HD
 acestream://a020f56162ff397b9c28a547ddbfdb283b458c0a
@@ -33,6 +34,12 @@ acestream://46c49e9e01749e13c7fd87300924bfa5dad66d11
 
 #EXTINF:-1 group-title="Other",FASHION TV HD
 acestream://b904c4ae829c70d803383c22a3268f879d4e6db3
+#EXTINF:-1 group-title="Other",Bikini
+acestream://fef4d8bdcc3d91e47187c9961adbffbec8a9a581
+#EXTINF:-1 group-title="Other",Ero
+acestream://d2ecd1d6c15952c29ccf30d480f0321b180f2586
+#EXTINF:-1 group-title="Other",G TV
+acestream://105ae29baae91753c174b70b35c8aa4c56cb7cf9
 
 #EXTINF:-1,LIVE GOLF TEST
 https://cdn.livetv466.me/webplayer2.php?t=alieztv&c=151848&lang=en&eid=1114496&lid=1684135&ci=2131&si=37
