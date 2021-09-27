@@ -19,11 +19,17 @@ acestream://74673d8fb533cd8e7260ac555bc3ace1e1c40bd1
 
 #EXTINF:-1 group-title="LIVE",Sport streamings 
 acestream://e09a642d1b3d7ff62fe6838b84b007f5f2f90475
+#EXTINF:-1 group-title="LIVE",Livetv.sx 
+acestream://485546bddda35f4d0ab5aba150978f600614c1a6
+#EXTINF:-1 group-title="LIVE",livetv466.me 
+acestream://8ddadcaa1d83f2cf3ffabb6b6a2156d0afec3da1
 
 #EXTINF:-1 group-title="Sports",Eurosport 1 HD
 acestream://a020f56162ff397b9c28a547ddbfdb283b458c0a
 #EXTINF:-1 group-title="Sports",Infosport+
 acestream://0041a2045e71de2af96e308911b22e365330d8e4
+#EXTINF:-1 group-title="Sports",Skysport DE
+acestream://46c49e9e01749e13c7fd87300924bfa5dad66d11
 
 #EXTINF:-1 group-title="Other",FASHION TV HD
 acestream://b904c4ae829c70d803383c22a3268f879d4e6db3
