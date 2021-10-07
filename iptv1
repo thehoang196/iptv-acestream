@@ -22,6 +22,12 @@ acestream://485546bddda35f4d0ab5aba150978f600614c1a6
 #EXTINF:-1 group-title="LIVE",3.livetv466.me 
 acestream://8ddadcaa1d83f2cf3ffabb6b6a2156d0afec3da1
 
+#EXTINF:-1 group-title="Sports",4.HTV The thao
+acestream://8ce99235fba04cb6527585d04ffb122ef2af373a
+#EXTINF:-1 group-title="Sports",4.HTV The thao 2
+acestream://8ce99235fba04cb6527585d04ffb122ef2af373a
+#EXTINF:-1 group-title="VTV",VTV 6
+acestream://6fa375bfad22122b71c563398bd31a89a6c9dec8
 #EXTINF:-1 group-title="Sports",4.Eurosport 1 HD
 acestream://a020f56162ff397b9c28a547ddbfdb283b458c0a
 #EXTINF:-1 group-title="Sports",4.Infosport+
@@ -31,11 +37,19 @@ acestream://46c49e9e01749e13c7fd87300924bfa5dad66d11
 #EXTINF:-1 group-title="Sports",4.Skysport 4 TV
 acestream://e09a642d1b3d7ff62fe6838b84b007f5f2f90475
 
+#EXTINF:-1 group-title="Other",5.VTV 1
+acestream://20baab8ef1d3e59bf03185705b014f793d2588b3
+#EXTINF:-1 group-title="Other",5.VTC 3
+acestream://b27f3adaca65dca47cc12de6b8da4a43ca96dbae
 #EXTINF:-1 group-title="Other",5.FASHION TV HD
 acestream://b904c4ae829c70d803383c22a3268f879d4e6db3
 #EXTINF:-1 group-title="Other",5.Bikini
 acestream://fef4d8bdcc3d91e47187c9961adbffbec8a9a581
+#EXTINF:-1 group-title="Other",5.Jasmin SD
+acestream://0fa68f39508621778a8fb9d401057938e5a8d008
 #EXTINF:-1 group-title="Other",5.Jasmin HD
+acestream://fd56520dfd6136f3ff36b18794a47249f9bf8a6e
+#EXTINF:-1 group-title="Other",5.Jasmin 720
 acestream://830f554223e28f0d38a162220467114d9b1ede26
 #EXTINF:-1 group-title="Other",5.Miami
 acestream://f657dc5d27e2d0e13b87a712f323ba52c2504665
